@@ -1,6 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/malwisihab/Analysis-Komentar-Youtube-Ferri-rwandi/blob/main/AnalisisKomentarYoutube_FerriIrwandi.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malwisihab/Analysis-Komentar-Youtube-Ferri-rwandi/blob/main/AnalisisKomentarYoutube_FerriIrwandi.ipynb)
 
 # Analysis-Komentar-Youtube-Ferri-Irwandi
 
