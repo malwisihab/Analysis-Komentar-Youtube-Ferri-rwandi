@@ -1,1 +1,22 @@
 # Analysis-Komentar-Youtube-Ferri-rwandi
+
+Project ini bertujuan untuk melakukan analisis sentimen pada komentar YouTube
+menggunakan metode Machine Learning (LSTM).
+
+## Dataset
+Dataset berasal dari komentar YouTube yang telah melalui proses preprocessing:
+- Case folding
+- Cleaning
+- Tokenizing
+- Padding
+
+## Metode
+- TF-IDF
+- LSTM
+- Evaluasi menggunakan Accuracy
+
+## Cara Menjalankan
+1. Buka file notebook `.ipynb`
+2. Jalankan setiap cell secara berurutan di Google Colab
+
+
