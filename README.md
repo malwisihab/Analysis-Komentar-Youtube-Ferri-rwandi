@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malwisihab/Analysis-Komentar-Youtube-Ferri-Irwandi/blob/main/Analysis-Komentar-Youtube-Ferri-rwandi.ipynb)
+
 # Analysis-Komentar-Youtube-Ferri-rwandi
 
 Project ini bertujuan untuk melakukan analisis sentimen pada komentar YouTube
