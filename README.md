@@ -13,7 +13,7 @@ Dataset berasal dari komentar YouTube yang telah melalui proses preprocessing:
 ## Metode
 - TF-IDF
 - LSTM
-- Evaluasi menggunakan Accuracy
+- BILSTM
 
 ## Cara Menjalankan
 1. Buka file notebook `.ipynb`
