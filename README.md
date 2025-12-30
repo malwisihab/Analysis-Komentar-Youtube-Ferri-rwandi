@@ -1,14 +1,14 @@
 
-
-#CODE 
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malwisihab/Analysis-Komentar-Youtube-Ferri-rwandi/blob/main/AnalisisKomentarYoutube_FerriIrwandi.ipynb)
-
 # Analysis-Komentar-Youtube-Ferri-Irwandi
 
 Project ini bertujuan untuk melakukan analisis sentimen pada komentar YouTube
 menggunakan metode Machine Learning (LSTM).
+
+
+# CODE 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malwisihab/Analysis-Komentar-Youtube-Ferri-rwandi/blob/main/AnalisisKomentarYoutube_FerriIrwandi.ipynb)
+
 
 ## Dataset
 Dataset berasal dari komentar YouTube yang telah melalui proses preprocessing:
