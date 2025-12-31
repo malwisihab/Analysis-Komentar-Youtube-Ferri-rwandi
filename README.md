@@ -12,7 +12,8 @@ menggunakan metode Machine Learning (LSTM).
 
 # LAPORAN 
 
-[Laporan Analysis Komentar YouTube – Ferri Irwandi](https://github.com/<username>/<repo>/blob/main/Laporan-Analysis-Komentar-Youtube-FerriIrwandi.pdf)
+
+[![Open In Github](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malwisihab/Analysis-Komentar-Youtube-Ferri-rwandi/blob/main/Laporan-Analysis-Komentar-Youtube-FerriIrwandi.pdf)
 
 
 ## Dataset
