@@ -13,7 +13,7 @@ menggunakan metode Machine Learning (LSTM).
 # LAPORAN 
 
 
-[![Open In Github](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malwisihab/Analysis-Komentar-Youtube-Ferri-rwandi/blob/main/Laporan-Analysis-Komentar-Youtube-FerriIrwandi.pdf)
+[![Open In Github](https://colab.research.google.com/github/malwisihab/Analysis-Komentar-Youtube-Ferri-rwandi/blob/main/Laporan-Analysis-Komentar-Youtube-FerriIrwandi.pdf](https://github.com/malwisihab/Analysis-Komentar-Youtube-Ferri-rwandi/blob/main/Laporan-Analysis-Komentar-Youtube-FerriIrwandi.pdf))
 
 
 ## Dataset
