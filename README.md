@@ -10,6 +10,11 @@ menggunakan metode Machine Learning (LSTM).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malwisihab/Analysis-Komentar-Youtube-Ferri-rwandi/blob/main/AnalisisKomentarYoutube_FerriIrwandi.ipynb)
 
 
+# LAPORAN 
+
+[Laporan Analysis Komentar YouTube – Ferri Irwandi](https://github.com/<username>/<repo>/blob/main/Laporan-Analysis-Komentar-Youtube-FerriIrwandi.pdf)
+
+
 ## Dataset
 Dataset berasal dari komentar YouTube yang telah melalui proses preprocessing:
 - Case folding
