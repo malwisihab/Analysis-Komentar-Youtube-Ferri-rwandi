@@ -16,6 +16,9 @@ menggunakan metode Machine Learning (LSTM).
 
 
 ## Dataset
+[![Dataset Drive](https://img.shields.io/badge/Dataset-Google%20Drive-yellow?logo=google-drive)](https://drive.google.com/drive/folders/1zdd3hBYm6mmV-K4TacsRdcxyKzFPqQbV)
+
+
 Dataset berasal dari komentar YouTube yang telah melalui proses preprocessing:
 - Case folding
 - Cleaning
